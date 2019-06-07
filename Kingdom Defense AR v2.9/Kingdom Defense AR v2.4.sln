@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{50830E90-15E0-0B10-EF48-9E64F04CB14C}") = "Kingdom Defense AR v2.4", "Assembly-CSharp.csproj", "{0EF142CD-010A-5D43-EB33-71652F90EFFF}"
+EndProject
+Project("{50830E90-15E0-0B10-EF48-9E64F04CB14C}") = "Kingdom Defense AR v2.4", "Assembly-CSharp-Editor.csproj", "{3FAC06CA-BDB8-D49A-6980-E8D275312469}"
+EndProject
+Project("{50830E90-15E0-0B10-EF48-9E64F04CB14C}") = "Kingdom Defense AR v2.4", "Assembly-UnityScript-Editor-firstpass.unityproj", "{E8924DC1-2927-BCCF-1E10-A8D621FCC0EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EF142CD-010A-5D43-EB33-71652F90EFFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EF142CD-010A-5D43-EB33-71652F90EFFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EF142CD-010A-5D43-EB33-71652F90EFFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EF142CD-010A-5D43-EB33-71652F90EFFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FAC06CA-BDB8-D49A-6980-E8D275312469}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FAC06CA-BDB8-D49A-6980-E8D275312469}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FAC06CA-BDB8-D49A-6980-E8D275312469}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FAC06CA-BDB8-D49A-6980-E8D275312469}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8924DC1-2927-BCCF-1E10-A8D621FCC0EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8924DC1-2927-BCCF-1E10-A8D621FCC0EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8924DC1-2927-BCCF-1E10-A8D621FCC0EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8924DC1-2927-BCCF-1E10-A8D621FCC0EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,110 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 3000 (ID=0x116)
+    Vendor:   Intel
+    VRAM:     944 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\gus7_\Documents\UNIVERSIDAD\QUINTO\Videogames\Unity Projects\Vuforia Base Project 2\buildComputer_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\gus7_\Documents\UNIVERSIDAD\QUINTO\Videogames\Unity Projects\Vuforia Base Project 2\buildComputer_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\gus7_\Documents\UNIVERSIDAD\QUINTO\Videogames\Unity Projects\Vuforia Base Project 2\buildComputer_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\gus7_\Documents\UNIVERSIDAD\QUINTO\Videogames\Unity Projects\Vuforia Base Project 2\buildComputer_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\gus7_\Documents\UNIVERSIDAD\QUINTO\Videogames\Unity Projects\Vuforia Base Project 2\buildComputer_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\gus7_\Documents\UNIVERSIDAD\QUINTO\Videogames\Unity Projects\Vuforia Base Project 2\buildComputer_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\gus7_\Documents\UNIVERSIDAD\QUINTO\Videogames\Unity Projects\Vuforia Base Project 2\buildComputer_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\gus7_\Documents\UNIVERSIDAD\QUINTO\Videogames\Unity Projects\Vuforia Base Project 2\buildComputer_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\gus7_\Documents\UNIVERSIDAD\QUINTO\Videogames\Unity Projects\Vuforia Base Project 2\buildComputer_Data\Managed\Vuforia.UnityExtensions.dll (this message is harmless)
+Loading C:\Users\gus7_\Documents\UNIVERSIDAD\QUINTO\Videogames\Unity Projects\Vuforia Base Project 2\buildComputer_Data\Managed\Vuforia.UnityExtensions.dll into Unity Child Domain
+- Completed reload, in  0.070 seconds
+Platform assembly: C:\Users\gus7_\Documents\UNIVERSIDAD\QUINTO\Videogames\Unity Projects\Vuforia Base Project 2\buildComputer_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\gus7_\Documents\UNIVERSIDAD\QUINTO\Videogames\Unity Projects\Vuforia Base Project 2\buildComputer_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on WebCamBehaviour
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 375)
+
+OnLevelWasLoaded was found on KeepAliveBehaviour
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 375)
+
+desktop: 1366x768 60Hz; virtual: 3286x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.992270 ms
+Setting BehaviourComponentFactory
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Trackable vuforia-marker lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Vuforia initialization successful
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not initialize the tracker.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Could not initialize the tracker.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+SetHint
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+SetHint
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+SetHint
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Dataset TestingVRCardboard could not be loaded and cannot be activated.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+StartVuforia
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Creating a Mono Camera Configuration (Check for reflection)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: eb0 -> priority: 1 
+  Thread -> id: 28bc -> priority: 1 
+StopVuforia
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+StartVuforia
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+StopVuforia
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+StartVuforia
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Trackable vuforia-marker lost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+StopVuforia
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
